@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:21 Testcase test_BankApp_Url_001 is started
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:23 Opening browser
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:24 Checking page title
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:26 Testcase test_BankApp_Url_001 is passed
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:27 Taking screenshot
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:29 Testcase test_BankApp_Url_001 is completed
